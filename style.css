@@ -3352,6 +3352,7 @@ hr.invis {
     position: relative;
     padding: 30px;
     border: 0;
+        border: 1px solid blue;
     background-color: #0d1e30;
 }
 
